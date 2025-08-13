@@ -14,8 +14,13 @@ body {
 .container {
   background-color: #fff;
   width: 200px;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 100px auto;
 }
 
 img {
   width: 200px;
+  max-width: 100%;
+  border-radius: 10px;
 }
