@@ -5,10 +5,11 @@
 }
 
 body {
-  background-color: #99c5f9;
+  background-color: #aed2fe;
   display: flex;
   justify-content: center;
   align-items: center;
+  font-family: Arial, sans-serif;
 }
 
 .container {
@@ -23,4 +24,20 @@ img {
   width: 200px;
   max-width: 100%;
   border-radius: 10px;
+}
+
+.subtext {
+  font-weight: bold;
+  margin-top: 10px;
+  font-size: 16px;
+  text-align: center;
+  padding: 10px;
+}
+
+.description {
+  font-size: 12px;
+  color: #666;
+
+  text-align: center;
+  padding: 10px;
 }
